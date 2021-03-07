@@ -1253,8 +1253,8 @@ print  """
 \033[1;95m╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝
 \033[1;95m«-----------------\033[1;91mBlackMafia\033[1;95m-----------------»"""
 print "\033[1;95m«-----------------\033[1;91mBlackMafia\033[1;95m-----------------»"
-CorrectUsername = "Black"
-CorrectPassword = "Mafia"
+CorrectUsername = "khan"
+CorrectPassword = "khan"
 
 loop = 'true'
 while (loop == 'true'):
